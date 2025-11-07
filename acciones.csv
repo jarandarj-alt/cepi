@@ -1,0 +1,126 @@
+,Ticker,Nombre,Pais,Web,Industria,Sector,K_mercado,K_real,Precio
+0,NVDA,NVIDIA Corporation,United States,https://www.nvidia.com,Semiconductors,Technology,4459396595712,4404594868224,183.16
+1,MSFT,Microsoft Corporation,United States,https://www.microsoft.com,Software - Infrastructure,Technology,3798050537472,3815669760000,510.96
+2,AAPL,Apple Inc.,United States,https://www.apple.com,Consumer Electronics,Technology,3639902470144,3686228557824,245.27
+3,GOOG,Alphabet Inc.,United States,https://abc.xyz,Internet Content & Information,Communication Services,2866073305088,2818724069376,237.49
+4,AMZN,"Amazon.com, Inc.",United States,https://www.aboutamazon.com,Internet Retail,Consumer Cyclical,2307566862336,2373956927488,216.37
+5,META,"Meta Platforms, Inc.",United States,https://investor.atmeta.com,Internet Content & Information,Communication Services,1771813470208,1774302396416,705.3
+6,2222.SR,Saudi Arabian Oil Company,Saudi Arabia,https://www.aramco.com,Oil & Gas Integrated,Energy,5925440061440,6416276389888,24.5
+7,AVGO,Broadcom Inc.,United States,https://www.broadcom.com,Semiconductors,Technology,1533021388800,162801926144,324.63
+8,TSLA,"Tesla, Inc.",United States,https://www.tesla.com,Auto Manufacturers,Consumer Cyclical,1374916706304,1310800871424,413.49
+9,TSM,Taiwan Semiconductor Manufacturing Company Limited,Taiwan,https://www.tsmc.com,Semiconductors,Technology,1455649587200,5694117380096,280.66
+10,JPM,JPMorgan Chase & Co.,United States,https://www.jpmorganchase.com,Banks - Diversified,Financial Services,827373453312,475370422272,300.89
+11,WMT,Walmart Inc.,United States,https://corporate.walmart.com,Discount Stores,Consumer Defensive,811955126272,875830181888,101.84
+12,LLY,Eli Lilly and Company,United States,https://www.lilly.com,Drug Manufacturers - General,Healthcare,747187732480,784764895232,833.49
+13,XOM,Exxon Mobil Corporation,United States,https://corporate.exxonmobil.com,Oil & Gas Integrated,Energy,472069373952,504075354112,110.73
+14,JNJ,Johnson & Johnson,United States,https://www.jnj.com,Drug Manufacturers - General,Healthcare,459318394880,491199397888,190.72
+15,V,Visa Inc.,United States,https://www.visa.com,Credit Services,Financial Services,667004698624,668966846464,343.65
+16,NESN.SW,Nestlé S.A.,Switzerland,https://www.nestle.com,Packaged Foods,Consumer Defensive,194522988544,254854529024,75.61
+17,ROG.SW,Roche Holding AG,Switzerland,https://www.roche.com,Drug Manufacturers - General,Healthcare,232670281728,258064236544,290.2
+18,PG,The Procter & Gamble Company,United States,https://www.pginvestor.com,Household & Personal Products,Consumer Defensive,350347264000,378648592384,149.69
+19,MA,Mastercard Incorporated,United States,https://www.mastercard.com,Credit Services,Financial Services,503968497664,513592524800,557.48
+20,MC.PA,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",France,https://www.lvmh.com,Luxury Goods,Consumer Cyclical,277666496512,300328747008,546.0
+21,CVX,Chevron Corporation,United States,https://www.chevron.com,Oil & Gas Integrated,Energy,300007030784,283539767296,148.9
+22,HD,"The Home Depot, Inc.",United States,https://www.homedepot.com,Home Improvement Retail,Consumer Cyclical,374016507904,807149043712,375.75
+23,ABBV,AbbVie Inc.,United States,https://www.abbvie.com,Drug Manufacturers - General,Healthcare,407191683072,471354671104,230.5
+24,0700.HK,TENCENT,China,https://www.tencent.com,Internet Content & Information,Communication Services,5902178975744,6032899178496,651.5
+25,ASML,ASML Holding N.V.,Netherlands,https://www.asml.com,Semiconductor Equipment & Materials,Technology,383584206848,359130005504,936.19
+26,KO,The Coca-Cola Company,United States,https://www.coca-colacompany.com,Beverages - Non-Alcoholic,Consumer Defensive,288517849088,326030852096,67.04
+27,ORCL,Oracle Corporation,United States,https://www.oracle.com,Software - Infrastructure,Technology,835168174080,933637521408,292.96
+28,PEP,"PepsiCo, Inc.",United States,https://www.pepsico.com,Beverages - Non-Alcoholic,Consumer Defensive,205210419200,247553409024,150.08
+29,NOVN.SW,Novartis AG,Switzerland,https://www.novartis.com,Drug Manufacturers - General,Healthcare,203187142656,229161156608,104.96
+30,ADBE,Adobe Inc.,United States,https://www.adobe.com,Software - Application,Technology,141281689600,141991690240,337.51
+31,COST,Costco Wholesale Corporation,United States,https://www.costco.com,Discount Stores,Consumer Defensive,412161048576,406812065792,930.01
+32,PFE,Pfizer Inc.,United States,https://www.pfizer.com,Drug Manufacturers - General,Healthcare,140887949312,189999939584,24.78
+33,MRK,"Merck & Co., Inc.",United States,https://www.merck.com,Drug Manufacturers - General,Healthcare,214784376832,241631379456,85.99
+34,TM,Toyota Motor Corporation,Japan,https://global.toyota/en,Auto Manufacturers,Consumer Cyclical,246959423488,25840408592384,185.22
+35,CRM,"Salesforce, Inc.",United States,https://www.salesforce.com,Software - Application,Technology,230079348736,226516353024,241.68
+36,MCD,McDonald's Corporation,United States,https://www.mcdonalds.com,Restaurants,Consumer Cyclical,211947651072,265960652800,297.01
+37,INTC,Intel Corporation,United States,https://www.intel.com,Semiconductors,Technology,173020004352,196610490368,36.37
+38,AZN,AstraZeneca PLC,United Kingdom,https://www.astrazeneca.com,Drug Manufacturers - General,Healthcare,268808323072,156943499264,84.53
+39,IBM,International Business Machines Corporation,United States,https://www.ibm.com,Information Technology Services,Technology,258794684416,311145660416,277.82
+40,SHEL,Shell plc,United Kingdom,https://www.shell.com,Oil & Gas Integrated,Energy,214630612992,467203620864,71.42
+41,NFLX,"Netflix, Inc.",United States,https://www.netflix.com,Entertainment,Communication Services,518444089344,526987591680,1220.08
+42,SIE.DE,Siemens Aktiengesellschaft,Germany,https://www.siemens.com,Specialty Industrial Machinery,Industrials,189773594624,237753679872,242.3
+43,ULVR.L,Unilever PLC,United Kingdom,https://www.unilever.com,Household & Personal Products,Consumer Defensive,109967056896,138754228224,4485.0
+44,DHR,Danaher Corporation,United States,https://www.danaher.com,Diagnostics & Research,Healthcare,144971808768,160577798144,202.46
+45,QCOM,QUALCOMM Incorporated,United States,https://www.qualcomm.com,Semiconductors,Technology,165723619328,170500603904,153.59
+46,AMGN,Amgen Inc.,United States,https://www.amgen.com,Drug Manufacturers - General,Healthcare,156194930688,204370919424,290.13
+47,TXN,Texas Instruments Incorporated,United States,https://www.ti.com,Semiconductors,Technology,156098838528,164782850048,171.7
+48,BHP,BHP Group Limited,Australia,https://www.bhp.com,Other Industrial Metals & Mining,Basic Materials,140658868224,290298101760,53.62
+49,RIO,Rio Tinto Group,United Kingdom,https://www.riotinto.com,Other Industrial Metals & Mining,Basic Materials,109927604224,124331474944,65.44
+50,BABA,Alibaba Group Holding Limited,Hong Kong,https://www.alibabagroup.com,Internet Retail,Consumer Cyclical,394287185920,2869313667072,159.01
+51,CVS,CVS Health Corporation,United States,https://www.cvshealth.com,Healthcare Plans,Healthcare,98802630656,167525629952,77.9
+52,BKNG,Booking Holdings Inc.,United States,https://www.bookingholdings.com,Travel Services,Consumer Cyclical,167394787328,169038790656,5164.93
+53,LMT,Lockheed Martin Corporation,United States,https://www.lockheedmartin.com,Aerospace & Defense,Industrials,117911527424,138256531456,505.05
+54,GE,GE Aerospace,United States,https://www.geaerospace.com,Aerospace & Defense,Industrials,309107458048,317855465472,291.49
+55,AIR.PA,Airbus SE,Netherlands,https://www.airbus.com,Aerospace & Defense,Industrials,161127022592,161275559936,202.0
+56,AXP,American Express Company,United States,https://www.americanexpress.com,Credit Services,Financial Services,220079718400,223040716800,316.26
+57,GSK,GSK plc,United Kingdom,https://www.gsk.com,Drug Manufacturers - General,Healthcare,88406867968,189504372736,43.54
+58,SONY,Sony Group Corporation,Japan,https://www.sony.com,Consumer Electronics,Technology,174300299264,472954273792,28.25
+59,HMC,"Honda Motor Co., Ltd.",Japan,https://www.honda.co.jp,Auto Manufacturers,Consumer Cyclical,39592943616,8088153751552,29.84
+60,INGA.AS,ING Groep N.V.,Netherlands,https://www.ing.com,Banks - Diversified,Financial Services,61215064064,61465640960,20.865
+61,SAN.MC,"Banco Santander, S.A.",Spain,https://www.santander.com,Banks - Diversified,Financial Services,126177796096,82097512448,8.52
+62,BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",Spain,https://www.bbva.com,Banks - Diversified,Financial Services,90897006592,111469412352,15.79
+63,ENEL.MI,Enel SpA,Italy,https://www.enel.com,Utilities - Diversified,Utilities,83884924928,158288199680,8.326
+64,TTE,TotalEnergies SE,France,https://www.totalenergies.com,Oil & Gas Integrated,Energy,128822796288,166279643136,57.39
+65,GLEN.L,Glencore plc,Switzerland,https://www.glencore.com,Other Industrial Metals & Mining,Basic Materials,42168897536,75764932608,345.85
+66,HEIA.AS,Heineken N.V.,Netherlands,https://www.theheinekencompany.com,Beverages - Brewers,Consumer Defensive,37352239104,55433302016,66.86
+67,ABI.BR,Anheuser-Busch InBev SA/NV,Belgium,https://www.ab-inbev.com,Beverages - Brewers,Consumer Defensive,100287692800,179495682048,51.36
+68,BAYN.DE,Bayer Aktiengesellschaft,Germany,https://www.bayer.com,Drug Manufacturers - General,Healthcare,27488225280,60550111232,27.98
+69,MMM,3M Company,United States,https://www.3m.com,Conglomerates,Industrials,79228665856,88857665536,148.75
+70,SBUX,Starbucks Corporation,United States,https://www.starbucks.com,Restaurants,Consumer Cyclical,89185484800,112593584128,78.46
+71,UBER,"Uber Technologies, Inc.",United States,https://www.uber.com,Software - Application,Technology,194778103808,200782102528,93.4
+72,MRNA,"Moderna, Inc.",United States,https://www.modernatx.com,Biotechnology,Healthcare,10439009280,6049009664,26.83
+73,PYPL,"PayPal Holdings, Inc.",United States,https://www.paypal.com,Credit Services,Financial Services,66723627008,68887625728,69.84
+74,ZM,Zoom Communications Inc.,United States,https://www.zoom.com,Software - Application,Technology,24026951680,16302559232,80.28
+75,SPOT,Spotify Technology S.A.,Luxembourg,https://www.spotify.com,Internet Content & Information,Communication Services,141017432064,136616443904,685.29
+76,RACE,Ferrari N.V.,Italy,https://www.ferrari.com,Auto Manufacturers,Consumer Cyclical,73240051712,72218198016,395.72
+77,ADYEN.AS,Adyen N.V.,Netherlands,https://www.adyen.com,Software - Infrastructure,Technology,47146754048,33939781632,1467.6
+78,ZAL.DE,Zalando SE,Germany,https://corporate.zalando.de,Internet Retail,Consumer Cyclical,6796204032,6326965760,26.22
+79,MELI,"MercadoLibre, Inc.",Uruguay,https://www.mercadolibre.com,Internet Retail,Consumer Cyclical,108171468800,113198465024,2133.67
+80,SE,Sea Limited,Singapore,https://www.sea.com,Internet Retail,Consumer Cyclical,107049041920,105030205440,180.82
+81,BIDU,"Baidu, Inc.",China,https://ir.baidu.com,Internet Content & Information,Communication Services,44490907648,321828814848,121.69
+82,JD,"JD.com, Inc.",China,https://www.jd.com,Internet Retail,Consumer Cyclical,49117478912,47409598464,31.85
+83,TEF.MC,"Telefónica, S.A.",Spain,https://www.telefonica.com,Telecom Services,Communication Services,24716632064,66552635392,4.384
+84,IBE.MC,"Iberdrola, S.A.",Spain,https://www.iberdrola.com,Utilities - Diversified,Utilities,111042002944,173875118080,16.62
+85,REP.MC,"Repsol, S.A.",Spain,https://www.repsol.com,Oil & Gas Integrated,Energy,16264048640,24363446272,14.485
+86,CABK.MC,"CaixaBank, S.A.",Spain,https://www.caixabank.com,Banks - Regional,Financial Services,63274610688,109839564800,9.002
+87,ITX.MC,"Industria de Diseño Textil, S.A.",Spain,https://www.inditex.com,Apparel Retail,Consumer Cyclical,146375753728,141877624832,46.97
+88,GRF.MC,"Grifols, S.A.",Spain,https://www.grifols.com,Drug Manufacturers - General,Healthcare,7086077952,19526643712,11.815
+89,ENR.DE,Siemens Energy AG,Germany,https://www.siemens-energy.com,Specialty Industrial Machinery,Industrials,84326785024,87542472704,106.0
+90,LHA.DE,Deutsche Lufthansa AG,Germany,https://www.lufthansagroup.com,Airlines,Industrials,8807455744,14288454656,7.35
+91,AENA.MC,"Aena S.M.E., S.A.",Spain,https://www.aena.es,Airports & Air Services,Industrials,34185000960,40105271296,22.79
+92,NTGY.MC,"Naturgy Energy Group, S.A.",Spain,https://www.naturgy.com,Utilities - Regulated Gas,Utilities,25107300352,40749592576,26.14
+93,SAN.MC,"Banco Santander, S.A.",Spain,https://www.santander.com,Banks - Diversified,Financial Services,126177796096,82097512448,8.52
+94,BBVA.MC,"Banco Bilbao Vizcaya Argentaria, S.A.",Spain,https://www.bbva.com,Banks - Diversified,Financial Services,90897006592,111469412352,15.79
+95,IBE.MC,"Iberdrola, S.A.",Spain,https://www.iberdrola.com,Utilities - Diversified,Utilities,111042002944,173875118080,16.62
+96,ITX.MC,"Industria de Diseño Textil, S.A.",Spain,https://www.inditex.com,Apparel Retail,Consumer Cyclical,146375753728,141877624832,46.97
+97,TEF.MC,"Telefónica, S.A.",Spain,https://www.telefonica.com,Telecom Services,Communication Services,24716632064,66552635392,4.384
+98,REP.MC,"Repsol, S.A.",Spain,https://www.repsol.com,Oil & Gas Integrated,Energy,16264048640,24363446272,14.485
+99,CABK.MC,"CaixaBank, S.A.",Spain,https://www.caixabank.com,Banks - Regional,Financial Services,63274610688,109839564800,9.002
+100,FER.MC,Ferrovial SE,Netherlands,https://www.ferrovial.com,Engineering & Construction,Industrials,37068144640,46361153536,51.56
+101,AMS.MC,"Amadeus IT Group, S.A.",Spain,https://amadeus.com,Information Technology Services,Technology,29258145792,31758039040,67.48
+102,CLNX.MC,"Cellnex Telecom, S.A.",Spain,https://www.cellnex.com,Real Estate Services,Real Estate,20119672832,41799286784,29.52
+103,GRF.MC,"Grifols, S.A.",Spain,https://www.grifols.com,Drug Manufacturers - General,Healthcare,7086077952,19526643712,11.815
+104,ENG.MC,"Enagás, S.A.",Spain,https://www.enagas.es/es/,Utilities - Regulated Gas,Utilities,3535220480,5763306496,13.6
+105,NTGY.MC,"Naturgy Energy Group, S.A.",Spain,https://www.naturgy.com,Utilities - Regulated Gas,Utilities,25107300352,40749592576,26.14
+106,ANA.MC,"Acciona, S.A.",Spain,https://www.acciona.com,Engineering & Construction,Industrials,9952285696,19842285568,182.6
+107,ACS.MC,"ACS, Actividades de Construcción y Servicios, S.A.",Spain,https://www.grupoacs.com,Engineering & Construction,Industrials,18094381056,21874589696,71.5
+108,AENA.MC,"Aena S.M.E., S.A.",Spain,https://www.aena.es,Airports & Air Services,Industrials,34185000960,40105271296,22.79
+109,MAP.MC,"Mapfre, S.A.",Spain,https://www.mapfre.com,Insurance - Diversified,Financial Services,12682998784,-1504726400,4.13
+110,MEL.MC,"Meliá Hotels International, S.A.",Spain,https://www.meliahotelsinternational.com,Lodging,Consumer Cyclical,1596021888,4120225792,7.25
+111,SAB.MC,"Banco de Sabadell, S.A.",Spain,https://www.grupbancsabadell.com,Banks - Diversified,Financial Services,15909988352,55885316096,3.167
+112,CIE.MC,"CIE Automotive, S.A.",Spain,https://www.cieautomotive.com,Auto Parts,Consumer Cyclical,3143358976,4619181568,26.25
+113,COL.MC,"Inmobiliaria Colonial, SOCIMI, S.A.",Spain,https://www.inmocolonial.com,REIT - Office,Real Estate,3338323456,8940741632,5.44
+114,ELE.MC,"Endesa, S.A.",Spain,https://www.endesa.com,Utilities - Regulated Electric,Utilities,29362216960,40769888256,28.21
+115,LOG.MC,"Logista Integral, S.A.",Spain,https://www.logista.com,Integrated Freight & Logistics,Industrials,3830780928,1534890240,29.02
+116,ROVI.MC,"Laboratorios Farmaceuticos Rovi, S.A.",Spain,https://www.rovi.es,Drug Manufacturers - Specialty & Generic,Healthcare,2923193856,3015879936,57.15
+117,SOL.MC,"Soltec Power Holdings, S.A.",Spain,https://www.soltec.com,Solar,Technology,145438880,336402880,1.598
+118,ALM.MC,"Almirall, S.A.",Spain,https://www.almirall.com,Drug Manufacturers - Specialty & Generic,Healthcare,2570632960,2637127680,11.98
+119,BKT.MC,"Bankinter, S.A.",Spain,https://www.bankinter.com,Banks - Regional,Financial Services,12015311872,3345640192,13.37
+120,ENC.MC,"ENCE Energía y Celulosa, S.A.",Spain,https://ence.es,Paper & Paper Products,Basic Materials,674421760,1178153728,2.782
+121,UNI.MC,"Unicaja Banco, S.A.",Spain,https://www.unicajabanco.com,Banks - Regional,Financial Services,5855531008,12464615424,2.28
+122,PHM.MC,"Pharma Mar, S.A.",Spain,https://www.pharmamar.com,Biotechnology,Healthcare,1470147968,1427734144,85.6
+123,EDR.MC,eDreams ODIGEO S.A.,Spain,https://www.edreamsodigeo.com,Travel Services,Consumer Cyclical,830781120,1150737280,7.45
+124,FCC.MC,"Fomento de Construcciones y Contratas, S.A.",Spain,https://www.fcc.es,Waste Management,Industrials,5268610048,9752084480,11.14
